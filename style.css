@@ -37,6 +37,12 @@ i:hover {
   color: #2A5884;
 }
 
+h6{
+  text-align: left;
+  margin-left: 20px;
+}
+
+
 .card-white {
   background-color: white;
   width: 100%;
